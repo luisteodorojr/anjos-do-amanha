@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anjos-do-amanha/static/css/main.91674855.css",
-    "main.js": "/anjos-do-amanha/static/js/main.45702c3b.js",
+    "main.js": "/anjos-do-amanha/static/js/main.0509192c.js",
     "static/js/453.6b9e595e.chunk.js": "/anjos-do-amanha/static/js/453.6b9e595e.chunk.js",
     "static/media/about.jpeg": "/anjos-do-amanha/static/media/about.109970b971a45863490c.jpeg",
     "static/media/bootstrap-icons.woff?": "/anjos-do-amanha/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
@@ -11,11 +11,11 @@
     "static/media/hero-bg.png": "/anjos-do-amanha/static/media/hero-bg.691c00707e21d585b6de.png",
     "index.html": "/anjos-do-amanha/index.html",
     "main.91674855.css.map": "/anjos-do-amanha/static/css/main.91674855.css.map",
-    "main.45702c3b.js.map": "/anjos-do-amanha/static/js/main.45702c3b.js.map",
+    "main.0509192c.js.map": "/anjos-do-amanha/static/js/main.0509192c.js.map",
     "453.6b9e595e.chunk.js.map": "/anjos-do-amanha/static/js/453.6b9e595e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91674855.css",
-    "static/js/main.45702c3b.js"
+    "static/js/main.0509192c.js"
   ]
 }
