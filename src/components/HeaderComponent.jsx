@@ -3,12 +3,13 @@ import logo from "../components/assets/img/logo.png";
 
 const HeaderComponent = () => {
   const [activeSection, setActiveSection] = useState("hero");
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   useEffect(() => {
     const observerOptions = {
       root: null,
       rootMargin: "0px",
-      threshold: 0.6, // detecta quando 60% da seção está visível
+      threshold: 0.6,
     };
 
     const observer = new IntersectionObserver((entries) => {
@@ -27,6 +28,10 @@ const HeaderComponent = () => {
     };
   }, []);
 
+  useEffect(() => {
+    document.body.classList.toggle("mobile-nav-active", isMobileMenuOpen);
+  }, [isMobileMenuOpen]);
+
   const navItems = [
     { id: "hero", label: "Home" },
     { id: "about", label: "Sobre" },
@@ -35,6 +40,12 @@ const HeaderComponent = () => {
     { id: "team", label: "Voluntários" },
     { id: "contact", label: "Contato" },
   ];
+
+  const handleNavClick = () => {
+    if (window.innerWidth < 1200) {
+      setIsMobileMenuOpen(false);
+    }
+  };
 
   return (
     <header id="header" className="header d-flex align-items-center fixed-top">
@@ -47,13 +58,20 @@ const HeaderComponent = () => {
           <ul>
             {navItems.map(({ id, label }) => (
               <li key={id}>
-                <a href={`#${id}`} className={activeSection === id ? "active" : ""}>
+                <a
+                  href={`#${id}`}
+                  className={activeSection === id ? "active" : ""}
+                  onClick={handleNavClick}
+                >
                   {label}
                 </a>
               </li>
             ))}
           </ul>
-          <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
+          <i
+            className={`mobile-nav-toggle bi ${isMobileMenuOpen ? "bi-x" : "bi-list"} d-xl-none`}
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+          ></i>
         </nav>
 
         <div className="header-social-links">
