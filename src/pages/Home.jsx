@@ -7,6 +7,8 @@ import HeroComponent from "../components/HeroComponent";
 import ContactComponent from "../components/ContactComponent";
 import AboutComponent from "../components/AboutComponent";
 import FooterComponent from "../components/FooterComponent";
+import CampaignsComponent from "../components/CampaignsComponent";
+
 
 class Home extends Component {
   render() {
@@ -16,6 +18,7 @@ class Home extends Component {
           <HeaderComponent />
           <HeroComponent />
           <AboutComponent />
+          <CampaignsComponent />
           <ContactComponent />
           <FooterComponent />
       </div>
