@@ -33,7 +33,7 @@ const FooterComponent = () => {
             <p>Acompanhe nossas redes sociais e fique por dentro das ações que realizamos por um futuro melhor para nossas crianças.</p>
             <div className="social-links d-flex">
               <a href="#"><i className="bi bi-facebook"></i></a>
-              <a href="#"><i className="bi bi-instagram"></i></a>
+              <a href="https://www.instagram.com/missao.anjosdoamanha/"><i className="bi bi-instagram"></i></a>
             </div>
           </div>
 
