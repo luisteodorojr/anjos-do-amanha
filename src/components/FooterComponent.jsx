@@ -14,7 +14,7 @@ const FooterComponent = () => {
               <p>Uberlândia - MG</p>
               <p>Brasil</p>
               <p className="mt-3"><strong>Telefone:</strong> <span>(34) 99991-2580</span></p>
-              <p><strong>Email:</strong> <span>contato@anjosdoamanha.org.br</span></p>
+              <p><strong>Email:</strong> <span>contato@anjosdoamanha.ong.br</span></p>
             </div>
           </div>
 
