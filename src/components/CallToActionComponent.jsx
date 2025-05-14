@@ -15,7 +15,7 @@ const CallToActionComponent = () => {
           <div className="col-xl-3 cta-btn-container text-center">
             <a
               className="cta-btn align-middle"
-              href="https://wa.me/5534991426364"
+              href="https://wa.me/5534999912580"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -13,7 +13,7 @@ const FooterComponent = () => {
             <div className="footer-contact pt-3">
               <p>Uberlândia - MG</p>
               <p>Brasil</p>
-              <p className="mt-3"><strong>Telefone:</strong> <span>(34) 99999-9999</span></p>
+              <p className="mt-3"><strong>Telefone:</strong> <span>(34) 99991-2580</span></p>
               <p><strong>Email:</strong> <span>contato@anjosdoamanha.org.br</span></p>
             </div>
           </div>
