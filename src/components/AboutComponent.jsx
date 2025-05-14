@@ -1,4 +1,3 @@
-
 import React from 'react';
 import aboutImg from '../components/assets/img/about.jpeg';
 
@@ -29,6 +28,20 @@ const AboutComponent = () => {
             <p>
               Fundada em 2021 por Vinícius e Cristianne, a ONG nasceu com o propósito de fazer a diferença na vida de quem mais precisa. A cada ação, buscamos proporcionar dignidade, alegria e novas perspectivas para centenas de famílias.
             </p>
+
+            <p>
+              Nossa missão: Promover o bem-estar de crianças e adolescentes por meio de ações educativas, culturais e sociais, criando oportunidades e fortalecendo vínculos comunitários.
+            </p>
+
+              <p>
+                Nossos valores: Amor, empatia, comprometimento com a comunidade, esperança, transformação, transparência e responsabilidade
+            </p>
+
+            <h3>Parcerias que fortalecem</h3>
+            <p>
+              Contamos com o apoio de voluntários, empresas e instituições que acreditam no nosso trabalho e caminham conosco nessa jornada de transformação social.
+            </p>
+
           </div>
         </div>
       </div>
