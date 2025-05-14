@@ -8,7 +8,9 @@ import ContactComponent from "../components/ContactComponent";
 import AboutComponent from "../components/AboutComponent";
 import FooterComponent from "../components/FooterComponent";
 import CampaignsComponent from "../components/CampaignsComponent";
-
+import GalleryComponent from "../components/GalleryComponent";
+import TeamComponent from "../components/TeamComponent";
+import CallToActionComponent from "../components/CallToActionComponent";
 
 class Home extends Component {
   render() {
@@ -19,6 +21,9 @@ class Home extends Component {
           <HeroComponent />
           <AboutComponent />
           <CampaignsComponent />
+          <CallToActionComponent />
+          <GalleryComponent />
+          <TeamComponent />
           <ContactComponent />
           <FooterComponent />
       </div>
