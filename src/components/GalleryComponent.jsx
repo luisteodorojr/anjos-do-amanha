@@ -75,7 +75,7 @@ const GalleryComponent = () => {
   }, [activeFilter]);
 
   return (
-    <section id="portfolio" className="portfolio section">
+    <section id="portfolio" className="portfolio section light-background">
       <div className="container section-title" data-aos="fade-up">
         <h2>Galeria</h2>
         <p>Veja alguns dos momentos especiais registrados pelo nosso projeto.</p>

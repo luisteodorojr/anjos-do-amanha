@@ -38,6 +38,7 @@ const HeaderComponent = () => {
     { id: "services", label: "Campanhas" },
     { id: "portfolio", label: "Galeria" },
     { id: "team", label: "Voluntários" },
+    { id: "midia", label: "Mídia" },
     { id: "contact", label: "Contato" },
   ];
 

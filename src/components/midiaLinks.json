@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "titulo": "Paranaíba Mais",
+    "descricao": "ONG arrecada materiais escolares para crianças carentes.",
+    "icone": "bi-newspaper",
+    "url": "https://paranaibamais.com.br/educacao/ong-de-uberlandia-arrecada-materiais-escolares-para-ajudar-criancas-carentes/"
+  },
+  {
+    "id": 2,
+    "titulo": "Diário de Uberlândia",
+    "descricao": "Arrecadação para crianças em situação de vulnerabilidade.",
+    "icone": "bi-newspaper",
+    "url": "https://diariodeuberlandia.com.br/noticia/37341/ong-de-uberlandia-arrecada-materiais-escolares-para-criancas-em-situacao-de-vulnerabilidade-social"
+  },
+  {
+    "id": 3,
+    "titulo": "Campanha de Páscoa",
+    "descricao": "Entrega de ovos de páscoa para crianças.",
+    "icone": "bi-newspaper",
+    "url": "https://diariodeuberlandia.com.br/noticia/37826/ongs-realizam-campanhas-entregar-ovos-pascoa-criancas"
+  },
+  {
+    "id": 4,
+    "titulo": "GloboPlay",
+    "descricao": "Reportagem sobre as ações da ONG.",
+    "icone": "bi-camera-video",
+    "url": "https://globoplay.globo.com/v/13269319/"
+  },
+  {
+    "id": 5,
+    "titulo": "TV Paranaíba - YouTube",
+    "descricao": "Entrevista com organizadores da ONG.",
+    "icone": "bi-youtube",
+    "url": "https://www.youtube.com/watch?v=wuXcfImhQpw&ab_channel=TVParana%C3%ADba"
+  }
+]

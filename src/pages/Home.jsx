@@ -11,6 +11,9 @@ import CampaignsComponent from "../components/CampaignsComponent";
 import GalleryComponent from "../components/GalleryComponent";
 import TeamComponent from "../components/TeamComponent";
 import CallToActionComponent from "../components/CallToActionComponent";
+import MidiaComponent from "../components/MidiaComponent";
+
+
 
 class Home extends Component {
   render() {
@@ -24,6 +27,7 @@ class Home extends Component {
           <CallToActionComponent />
           <GalleryComponent />
           <TeamComponent />
+          <MidiaComponent />
           <ContactComponent />
           <FooterComponent />
       </div>

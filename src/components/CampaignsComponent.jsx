@@ -31,7 +31,7 @@ const CampaignsComponent = () => {
   ];
 
   return (
-    <section id="services" className="services section">
+    <section id="services" className="services section light-background">
       <div className="container" data-aos="fade-up">
         <div className="section-title text-center">
           <h2>Campanhas</h2>
