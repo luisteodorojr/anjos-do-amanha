@@ -1,26 +1,99 @@
 [
   {
     "photo": "/assets/img/team/luis.jpg",
-    "name": "Luis Antônio Teodoro Junior",
+    "name": "Luis",
     "role": "Voluntário",
-    "bio": "Atua na organização das ações sociais com amor e dedicação."
+    "bio": ""
   },
   {
-    "photo": "/assets/img/team/other.jpg",
-    "name": "Vinicius de Paula",
+    "photo": "/assets/img/team/vinicius.jpg",
+    "name": "Vinicius",
     "role": "Voluntário",
-    "bio": "Atua na organização das ações sociais com amor e dedicação."
+    "bio": ""
   },
   {
     "photo": "/assets/img/team/gabi.jpg",
-    "name": "Gabriela Alves Fonseca Teodoro",
+    "name": "Gabriela",
     "role": "Voluntário",
-    "bio": "Atua na organização das ações sociais com amor e dedicação."
+    "bio": ""
   },
   {
-    "photo": "/assets/img/team/other.jpg",
-    "name": "Cristhianne Áurea Ferreira",
+    "photo": "/assets/img/team/cris_aurea.jpg",
+    "name": "Cris Aurea",
     "role": "Voluntário",
-    "bio": "Atua na organização das ações sociais com amor e dedicação."
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/alexandre.jpg",
+    "name": "Alexandre",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/cris_grama.jpg",
+    "name": "Cris Grama",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/di_oliveira.jpg",
+    "name": "Di Oliveira",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/ednaldo.png",
+    "name": "Ednaldo",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/erica.jpg",
+    "name": "Érica",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/joao_paulo.jpg",
+    "name": "João Paulo",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/marcos_bortolosso.jpg",
+    "name": "Marcos Bortolosso",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/marotinho.jpg",
+    "name": "Palhaço Marotinho",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/renata_bortolosso.jpg",
+    "name": "Renata Bortolosso",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/renata_reche.jpg",
+    "name": "Renata Reche",
+    "role": "Voluntário",
+    "bio": ""
+  }
+  ,
+  {
+    "photo": "/assets/img/team/salger.jpg",
+    "name": "Salger",
+    "role": "Voluntário",
+    "bio": ""
+  },
+  {
+    "photo": "/assets/img/team/yara.jpg",
+    "name": "Yara",
+    "role": "Voluntário",
+    "bio": ""
   }
 ]

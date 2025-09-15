@@ -60,7 +60,7 @@ const TeamComponent = () => {
                     <a href="#"><span className="">{person.name}</span></a>
                   </h3>
                   <span className="d-block position">{person.role}</span>
-                  <p>{person.bio}</p>
+                  {/* <p>{person.bio}</p> */}
                 </div>
               </SwiperSlide>
             ))}

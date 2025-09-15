@@ -12,6 +12,7 @@ import GalleryComponent from "../components/GalleryComponent";
 import TeamComponent from "../components/TeamComponent";
 import CallToActionComponent from "../components/CallToActionComponent";
 import MidiaComponent from "../components/MidiaComponent";
+import CurrentCampaignContainer from "../components/CurrentCampaignContainer"
 
 
 
@@ -20,16 +21,17 @@ class Home extends Component {
 
     return (
       <div>
-          <HeaderComponent />
-          <HeroComponent />
-          <AboutComponent />
-          <CampaignsComponent />
-          <CallToActionComponent />
-          <GalleryComponent />
-          <TeamComponent />
-          <MidiaComponent />
-          <ContactComponent />
-          <FooterComponent />
+        <HeaderComponent />
+        <HeroComponent />
+        <CurrentCampaignContainer />
+        <AboutComponent />
+        <CampaignsComponent />
+        <CallToActionComponent />
+        <GalleryComponent />
+        <TeamComponent />
+        <MidiaComponent />
+        <ContactComponent />
+        <FooterComponent />
       </div>
     );
   }
